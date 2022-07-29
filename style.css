@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Poppins;
+}
+
+
+body{
+  background-color: #2b2922;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 50px 80px 50px 80px;
+}
+
+.navbar >div >img{
+  width:  7rem;
+  cursor: pointer;
+}
+
+.list-group {
+  width: 900px;
+display: flex;
+justify-content: end;
+align-items: center;
+}
+
+.list {
+  height: 50px;
+  width: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.list > li {
+  cursor: pointer;
+  list-style-type: none;
+  color: rgb(128, 128, 128);
+}
+
+.list > li:hover{
+  font-weight: bold;
+  color: #ffffff;
+  
+}
+
+.list :first-child{
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.button-small {
+  height: 40px;
+  width: 153px;
+  border-radius: 12px;
+  border: 2px solid;
+  color: #a08f36;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+
+.button-small:hover{
+  background-color: #a08f36;
+  border: none;
+color:#ffffff;
+}
+
+/* hero */
+
+
+.text{
+  display: flex;
+  align-items: center;
+  margin: 50px 80px 70px 80px;
+}
+
+.hero >div >h1{
+  width: 44%;
+font-size: 69px;
+color: #f1f0ef;
+margin: 0 auto;
+}
+
+.hero>div>p{
+  width: 37%;
+margin: 0 94px 0 74px;
+color: rgb(128, 128, 128);
+font-size: 18px;
+}
+
+.bottom>div{
+  position: relative;
+}
+
+.bottom >div >img{
+  position: absolute;
+width: 100vw;
+top: 0;
+width: 100%;
+height: 314px;
+object-fit: cover;
+}
