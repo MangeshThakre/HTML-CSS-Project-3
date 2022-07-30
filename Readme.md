@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Live%20Project%202-Hosting%20Landing%20Page-brightgreen)
+![](https://img.shields.io/badge/Live%20Project%203-Hosting%20Landing%20Page-brightgreen)
 
 # Law Home Page 
 > HTML - CSS Project-3 
