@@ -4,7 +4,7 @@
 > HTML - CSS Project-3 
 
 🙌 hey There I'm mangesh Thakre Wed Developer 
-##  What I've learnd form theis project 
+##  What I've learnd form this project 
  
   After theis project I've more controle over position property  
  - Learned to place the image inside the div whitout straching the image with object-position object-fit
