@@ -7,7 +7,7 @@
 ##  What I've learnd form this project 
  
   After theis project I've more controle over position property  
- - Learned to place the image inside the div whitout straching the image with object-position object-fit
+ - Learned to place the image inside the div without straching the image with object-position object-fit
 > #### This project took 3 hour to complete, 
 
  ##  _[live project link](https://full-stack-js-html-css-project-2.netlify.app "HTML-CSS_Project-2" )_
